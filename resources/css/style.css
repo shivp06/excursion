@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+/* Header Start */
+.topHeader {
+    text-align: center;
+}
+
+.headerText {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+/* Header End */
