@@ -15,3 +15,10 @@
     color: white;
 }
 /* Header End */
+
+/* Middle Section (first download link & phone video) Start */
+.downloadLink {
+    color: aquamarine;
+    font-size: 16px;
+}
+/* Middle Section (first download link & phone video) End */
