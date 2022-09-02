@@ -36,6 +36,10 @@
 }
 /* Main Content End */
 
-/* End Main Section Start */
-
-/* End Main Section End */
+/* Footer Start */
+.copyright {
+    color: grey;
+    font-size: 21px;
+    text-align: right;
+}
+/* Footer End */
